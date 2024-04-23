@@ -13,3 +13,21 @@ body {
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
+
+#title {
+    font-size: 36px;
+    color: #333;
+}
+
+#img-div {
+    margin-top: 30px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
